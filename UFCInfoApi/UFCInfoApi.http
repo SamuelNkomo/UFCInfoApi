@@ -1,0 +1,6 @@
+@UFCInfoApi_HostAddress = http://localhost:5261
+
+GET {{UFCInfoApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
